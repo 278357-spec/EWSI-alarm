@@ -1,0 +1,28 @@
+Added Component: Designator=B1(button12x12)
+Added Component: Designator=Ic1(ESP32-S3)
+Added Component: Designator=R1(RESC3116X65X40LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206FR-10750RL"; VariantName = "[No Variations]"
+Added Component: Designator=S?(C1001)
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=NetIc1_1 Pin=Ic1-1
+Added Pin To Net: NetName=NetIc1_2 Pin=Ic1-2
+Added Pin To Net: NetName=NetB1_4 Pin=Ic1-3
+Added Pin To Net: NetName=NetIc1_7 Pin=Ic1-7
+Added Pin To Net: NetName=NetIc1_8 Pin=Ic1-8
+Added Pin To Net: NetName=NetB1_1 Pin=Ic1-12
+Added Pin To Net: NetName=GND Pin=Ic1-13
+Added Pin To Net: NetName=NetIc1_14 Pin=Ic1-14
+Added Pin To Net: NetName=NetB1_4 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetIc1_14 Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=NetIc1_8 Pin=S?-3
+Added Pin To Net: NetName=NetIc1_7 Pin=S?-4
+Added Pin To Net: NetName=NetIc1_1 Pin=S?-5
+Added Pin To Net: NetName=NetIc1_2 Pin=S?-6
+Added Member To Class: ClassName=schemat Member=Component B1 button 12x12
+Added Member To Class: ClassName=schemat Member=Component Ic1 ESP32-S3_xiao
+Added Member To Class: ClassName=schemat Member=Component R1 RC1206FR-10750RL
+Added Member To Class: ClassName=schemat Member=Component S? DFRobot C1001

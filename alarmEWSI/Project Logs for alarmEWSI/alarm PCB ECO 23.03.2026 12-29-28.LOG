@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetB1_1 Pin=Ic1-12
+Removed Pin From Net: NetName=GND Pin=Ic1-13
+Removed Member From Class: ClassName=alarm Member=Ic1
+Added Component: Designator=Ic?(ESP32-S3)
+Added Pin To Net: NetName=NetB1_4 Pin=Ic?-1
+Added Pin To Net: NetName=NetB1_1 Pin=Ic?-12
+Added Pin To Net: NetName=GND Pin=Ic?-13
+Added Pin To Net: NetName=NetIc?_2 Pin=Ic?-2
+Added Pin To Net: NetName=NetIc?_2 Pin=R2-2
+Added Net: Name=NetIc?_2
+Added Member To Class: ClassName=alarm Member=Component Ic? ESP32-S3_xiao
